@@ -20,6 +20,6 @@ $sudo ldconfig
 
 Star Middleware
 ```sh
-$ run.py
+$ python run.py
 ```
 
