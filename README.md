@@ -10,7 +10,7 @@ Once you have the pip program issue the following commands:
 $cd flasky
 $sudo pip install -r requirements.txt
 ```
-Setup mosquitto
+Setup Mosquitto
 ```sh
 $cd flasky/mosquitto-1.4
 $make all
